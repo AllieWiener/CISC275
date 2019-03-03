@@ -7,6 +7,7 @@
     object that is passed into the collections.sort method.
     
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
-    The comparator constructor call is in the Collections.sort method it's "new Comparator<Animal>." The class definition for               
+   
+   The comparator constructor call is in the Collections.sort method it's "new Comparator<Animal>." The class definition for               
     the comparator is in the body of the collections.sort method.
 
